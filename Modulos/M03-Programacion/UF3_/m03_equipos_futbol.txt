@@ -1,0 +1,5 @@
+4
+Barcelona:3-Madrid:1
+Sabadell:2-Terrassa:0
+Lleida:0-Girona:1
+Móstoles:0-Alcorcón:0
